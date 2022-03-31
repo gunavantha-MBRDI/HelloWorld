@@ -7,5 +7,6 @@ public class HelloWorld {
         System.out.println(myCar2.color + " " + myCar2.type + " " + myCar2.serialNumber);
         System.out.println(myCar3.color + " " + myCar3.type + " " + myCar3.serialNumber);
         System.out.println(Car.carCount);
+        System.out.println(Car.carCount);
     }
 }
